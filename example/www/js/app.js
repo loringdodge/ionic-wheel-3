@@ -1,4 +1,4 @@
-angular.module('starter', ['ionic', 'ionic.wheel'])
+angular.module('starter', ['ionic', 'ionic.wheel.3'])
 
 .controller('MainCtrl', function($scope, $timeout) {
 

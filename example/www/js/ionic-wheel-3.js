@@ -163,7 +163,7 @@
   });
 
 
-  angular.module('ionic.wheel', ['ionic'])
+  angular.module('ionic.wheel.3', ['ionic'])
 
     .directive('ionWheel', function() {
       return {
